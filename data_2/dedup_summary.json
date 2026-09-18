@@ -1,0 +1,7 @@
+{
+  "notices": 12000,
+  "cards": 11991,
+  "threshold": 0.88,
+  "minhash_bytes": 512,
+  "lookup_ms": 0.6025000002409797
+}
