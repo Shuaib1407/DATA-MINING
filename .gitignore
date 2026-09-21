@@ -1,0 +1,16 @@
+# Ignore large dataset folders and generated outputs
+# Raw and sales data are large local files
+/data/raw/
+/data/sales/
+
+/data_2/notices/
+/data_2/_truth/
+
+DATA-MINING/data_2/labelled_pairs.csv
+
+# Common temporary/generated files
+*.tmp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
